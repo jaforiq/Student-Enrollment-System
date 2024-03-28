@@ -10,6 +10,7 @@ public class AutoMapperProfiles: Profile
     {
         CreateMap<AddStudentDto,Student>().ReverseMap();
         CreateMap<Student,StudentDto>().ReverseMap(); 
+        CreateMap<UpdateStudentDto,Student>().ReverseMap();
     }
     
 }

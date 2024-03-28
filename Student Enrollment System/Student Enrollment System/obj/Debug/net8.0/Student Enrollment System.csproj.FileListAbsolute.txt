@@ -135,3 +135,11 @@ E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enroll
 E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\obj\Debug\net8.0\Student Enrollment System.genruntimeconfig.cache
 E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\obj\Debug\net8.0\ref\Student Enrollment System.dll
 E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\AutoMapper.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\obj\Debug\net8.0\Student Enrollment System.sourcelink.json
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BackEnd\C#\Student-Enrollment-System\Student Enrollment System\Student Enrollment System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
